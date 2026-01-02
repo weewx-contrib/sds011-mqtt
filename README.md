@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-This package reads particulate matter data from a **Nova Fitness SDS011** air quality sensor (via USB serial), outputs the latest measurement to a JSON file, and publishes it to an MQTT broker for integration into dashboards and weather station systems such as **WeeWX / DivumWX**.
+This package reads particulate matter data from a **Nova Fitness SDS011** air quality sensor (via USB serial), outputs the latest measurement to a JSON file, and publishes it to an MQTT broker for integration into dashboards and weather station systems such as **WeeWX**.
 
 ### Features
 - Queries **PM2.5** and **PM10** values from the SDS011.
